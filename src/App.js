@@ -1,8 +1,9 @@
 
 import React, { useState } from 'react';
-import About from './components/About';
 import Nav from './components/Nav';
 import Content from './components/Content';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
@@ -28,7 +29,7 @@ function App() {
       <main>
          
         <Content currentMenuItem={currentMenuItem}></Content>
-        <About></About>
+        
       </main>
     </div>
   );
