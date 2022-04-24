@@ -9,26 +9,29 @@ function Content(props) {
     const { currentMenuItem } = props;
     const Component = currentMenuItem.component;
 
+    
     if (Component === "About") {
         return (
-            <section><About></About></section>
+            <section><About/></section>
         );
     }
     else if (Component === "Portfolio") {
         return (
-            <section><Portfolio></Portfolio></section>
+            <section><Portfolio/></section>
         );
     }
     else if (Component === "Contact") {
         return (
-            <section><Contact></Contact></section>
+            <section><Contact/></section>
         );
     }
     else if (Component === "Resume") {
         return (
-            <section><Resume></Resume></section>
+            <section><Resume/></section>
         );
     }
+
+
 /*
     return (
         <section>

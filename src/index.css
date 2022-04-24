@@ -8,7 +8,7 @@ main {
   --secondary: #F3A847;
   --tertiary: #B12704;
   --light: #fafafa;
-  --dark: #000000;
+  --dark: #1A7FB3;
   --darker: #111111;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -297,4 +297,7 @@ a {
   margin: 0 auto;
   max-width: 825px;
   text-align: center;
+  background-color: #A6D9F2;
 }
+
+

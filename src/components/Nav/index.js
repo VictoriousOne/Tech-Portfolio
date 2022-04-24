@@ -19,7 +19,8 @@ function Nav(props) {
                 <ul className="flex-row">
                     {menuItems.map((item) => (
                         <li
-                            className="mx-1"
+                        className={`mx-1 ${currentMenuItem.name === item.name && `navActive`
+                        }`}
                             key={item.name}
                         >
                             <span onClick={() => setCurrentMenuItem(item)}>
