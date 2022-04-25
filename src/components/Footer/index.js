@@ -3,8 +3,8 @@ import React from 'react';
 
 function Footer() {
     return (
-        <section>
-            <div class="flex-row space-between">
+        <footer>
+            <div id="myfooter" class="flex-row space-between">
                 <a href="https://github.com/VictoriousOne" target="_blank">
                     Github Profile:
                 </a>
@@ -12,7 +12,7 @@ function Footer() {
                     LinkedIn Profile:
                 </a>
             </div>
-        </section>
+        </footer>
     );
 }
 

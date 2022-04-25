@@ -9,6 +9,7 @@ import FluffyPotato from '../../assets/images/Fluffy-Potato.png';
 import Sportlytics from '../../assets/images/Sportlytics.png';
 
 
+
 function Portfolio() {
 
   return (
@@ -20,10 +21,16 @@ function Portfolio() {
             src={TeamProfile}
             alt="First slide"
           />
-          <Carousel.Caption>
-            <h3>First slide label</h3>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-          </Carousel.Caption>
+         <Carousel.Caption>
+         <div class="flex-row space-between">
+            <a href="https://github.com/VictoriousOne/GenTeamProfile" target="_blank">
+              Github URL
+            </a>
+            <a href="https://github.com/VictoriousOne/GenTeamProfile" target="_blank">
+              Deployment URL
+            </a>
+          </div>
+          </Carousel.Caption> 
         </Carousel.Item>
         <Carousel.Item>
           <img
@@ -32,8 +39,14 @@ function Portfolio() {
             alt="Second slide"
           />
           <Carousel.Caption>
-            <h3>Second slide label</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <div class="flex-row space-between">
+            <a href="https://github.com/VictoriousOne/Tech-Bytes" target="_blank">
+              Github URL
+            </a>
+            <a href="https://mytechbytes.herokuapp.com/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -43,8 +56,14 @@ function Portfolio() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Third slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <div class="flex-row space-between">
+            <a href="https://github.com/VictoriousOne/Track-My-Budget" target="_blank">
+              Github URL
+            </a>
+            <a href="https://whatsmybudget.herokuapp.com/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -54,8 +73,14 @@ function Portfolio() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Fourth slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <div class="flex-row space-between">
+            <a href="https://github.com/VictoriousOne/Weather-On-Demand" target="_blank">
+              Github URL
+            </a>
+            <a href="https://victoriousone.github.io/Weather-On-Demand/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -65,8 +90,14 @@ function Portfolio() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Fifth slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <div class="flex-row space-between">
+            <a href="https://github.com/kazichaska/Sportlytics" target="_blank">
+              Github URL
+            </a>
+            <a href="https://kazichaska.github.io/Sportlytics/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -76,8 +107,14 @@ function Portfolio() {
             alt="Third slide"
           />
           <Carousel.Caption>
-            <h3>Sixth slide label</h3>
-            <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <div class="flex-row space-between">
+            <a href="https://github.com/matthewpetriella/fluffy-potato" target="_blank">
+              Github URL
+            </a>
+            <a href="https://rocky-river-85271.herokuapp.com/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
