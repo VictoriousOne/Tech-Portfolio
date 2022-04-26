@@ -32,7 +32,7 @@ If you want to check the application locally, please start by cloning the repo a
 ![Tech-Portfolio](https://user-images.githubusercontent.com/71474934/165370291-74fafb36-17f0-4ebb-8c39-18d3620d3b95.jpg)
 
 ## Usage
-
+https://victoriousone.github.io/Tech-Portfolio/
 
 ## Contributions
 Conributions are always welcomed.
