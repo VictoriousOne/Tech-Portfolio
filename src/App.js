@@ -30,9 +30,8 @@ function App() {
       <main>
          
         <Content currentMenuItem={currentMenuItem}></Content>
-        <Footer/>
-        
       </main>
+      <Footer/>
     </div>
   );
 }

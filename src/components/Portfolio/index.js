@@ -14,15 +14,15 @@ function Portfolio() {
 
   return (
     <section>
-      <Carousel fade>
-        <Carousel.Item>
+      <Carousel variant="dark" fade>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={TeamProfile}
             alt="First slide"
           />
          <Carousel.Caption>
-         <div class="flex-row space-between">
+         <div className="flex-row space-between">
             <a href="https://github.com/VictoriousOne/GenTeamProfile" target="_blank">
               Github URL
             </a>
@@ -32,14 +32,14 @@ function Portfolio() {
           </div>
           </Carousel.Caption> 
         </Carousel.Item>
-        <Carousel.Item>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={TechBytes}
             alt="Second slide"
           />
           <Carousel.Caption>
-          <div class="flex-row space-between">
+          <div className="flex-row space-between">
             <a href="https://github.com/VictoriousOne/Tech-Bytes" target="_blank">
               Github URL
             </a>
@@ -49,14 +49,14 @@ function Portfolio() {
           </div>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={TrackMyBudget}
             alt="Third slide"
           />
           <Carousel.Caption>
-          <div class="flex-row space-between">
+          <div className="flex-row space-between">
             <a href="https://github.com/VictoriousOne/Track-My-Budget" target="_blank">
               Github URL
             </a>
@@ -66,14 +66,14 @@ function Portfolio() {
           </div>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={WeatherOnDemand}
             alt="Third slide"
           />
           <Carousel.Caption>
-          <div class="flex-row space-between">
+          <div className="flex-row space-between">
             <a href="https://github.com/VictoriousOne/Weather-On-Demand" target="_blank">
               Github URL
             </a>
@@ -83,14 +83,14 @@ function Portfolio() {
           </div>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={Sportlytics}
             alt="Third slide"
           />
           <Carousel.Caption>
-          <div class="flex-row space-between">
+          <div className="flex-row space-between">
             <a href="https://github.com/kazichaska/Sportlytics" target="_blank">
               Github URL
             </a>
@@ -100,14 +100,14 @@ function Portfolio() {
           </div>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
+        <Carousel.Item interval={2000}>
           <img
             className="d-block w-100"
             src={FluffyPotato}
             alt="Third slide"
           />
           <Carousel.Caption>
-          <div class="flex-row space-between">
+          <div className="flex-row space-between">
             <a href="https://github.com/matthewpetriella/fluffy-potato" target="_blank">
               Github URL
             </a>

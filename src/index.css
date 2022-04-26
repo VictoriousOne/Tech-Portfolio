@@ -128,7 +128,7 @@ span[role="img"] {
 }
 
 form {
-  width: 40%;
+  width: 50%;
 }
 
 input {
@@ -302,4 +302,18 @@ a {
 
 footer {
   margin-top: 50px;
+  background-color: var(--dark);
+  color:black;
+}
+
+footer a {
+  color: black;
+}
+
+.carousel-control-prev, .carousel-control-next {
+  color:black;
+}
+
+.carousel-caption {
+  color:black;
 }

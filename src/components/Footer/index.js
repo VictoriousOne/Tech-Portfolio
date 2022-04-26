@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
     return (
         <footer>
-            <div id="myfooter" class="flex-row space-between">
+            <div id="myfooter" className="flex-row space-between">
                 <a href="https://github.com/VictoriousOne" target="_blank">
                     Github Profile:
                 </a>
