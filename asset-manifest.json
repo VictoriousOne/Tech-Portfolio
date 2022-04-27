@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tech-portfolio/static/css/main.a01e5a44.css",
-    "main.js": "/tech-portfolio/static/js/main.ba91a281.js",
-    "static/js/787.1906d1ae.chunk.js": "/tech-portfolio/static/js/787.1906d1ae.chunk.js",
-    "static/media/Track-My-Budget.jpg": "/tech-portfolio/static/media/Track-My-Budget.5ebe6315a15dabfd9198.jpg",
-    "static/media/TeamProfile.jpg": "/tech-portfolio/static/media/TeamProfile.a0bc9f437c36583aa632.jpg",
-    "static/media/Weather-On-Demand.jpg": "/tech-portfolio/static/media/Weather-On-Demand.a609e8e2cb61e86a0ba3.jpg",
-    "static/media/Tech-Bytes.jpg": "/tech-portfolio/static/media/Tech-Bytes.5dae6e24131cb34caa1b.jpg",
-    "static/media/Fluffy-Potato.png": "/tech-portfolio/static/media/Fluffy-Potato.3aec476156670b2ec3ba.png",
-    "static/media/Sportlytics.png": "/tech-portfolio/static/media/Sportlytics.8b93eec0f60e89167ff9.png",
-    "static/media/myAvatar.png": "/tech-portfolio/static/media/myAvatar.0db98aed95027e40e878.png",
-    "index.html": "/tech-portfolio/index.html",
-    "main.a01e5a44.css.map": "/tech-portfolio/static/css/main.a01e5a44.css.map",
-    "main.ba91a281.js.map": "/tech-portfolio/static/js/main.ba91a281.js.map",
-    "787.1906d1ae.chunk.js.map": "/tech-portfolio/static/js/787.1906d1ae.chunk.js.map"
+    "main.css": "/Tech-Portfolio/static/css/main.a01e5a44.css",
+    "main.js": "/Tech-Portfolio/static/js/main.031ce6bc.js",
+    "static/js/787.1906d1ae.chunk.js": "/Tech-Portfolio/static/js/787.1906d1ae.chunk.js",
+    "static/media/Track-My-Budget.jpg": "/Tech-Portfolio/static/media/Track-My-Budget.5ebe6315a15dabfd9198.jpg",
+    "static/media/TeamProfile.jpg": "/Tech-Portfolio/static/media/TeamProfile.a0bc9f437c36583aa632.jpg",
+    "static/media/Weather-On-Demand.jpg": "/Tech-Portfolio/static/media/Weather-On-Demand.a609e8e2cb61e86a0ba3.jpg",
+    "static/media/Tech-Bytes.jpg": "/Tech-Portfolio/static/media/Tech-Bytes.5dae6e24131cb34caa1b.jpg",
+    "static/media/Fluffy-Potato.png": "/Tech-Portfolio/static/media/Fluffy-Potato.3aec476156670b2ec3ba.png",
+    "static/media/Sportlytics.png": "/Tech-Portfolio/static/media/Sportlytics.8b93eec0f60e89167ff9.png",
+    "static/media/myAvatar.png": "/Tech-Portfolio/static/media/myAvatar.0db98aed95027e40e878.png",
+    "index.html": "/Tech-Portfolio/index.html",
+    "main.a01e5a44.css.map": "/Tech-Portfolio/static/css/main.a01e5a44.css.map",
+    "main.031ce6bc.js.map": "/Tech-Portfolio/static/js/main.031ce6bc.js.map",
+    "787.1906d1ae.chunk.js.map": "/Tech-Portfolio/static/js/787.1906d1ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a01e5a44.css",
-    "static/js/main.ba91a281.js"
+    "static/js/main.031ce6bc.js"
   ]
 }
