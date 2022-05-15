@@ -7,6 +7,7 @@ import TrackMyBudget from '../../assets/images/Track-My-Budget.jpg';
 import WeatherOnDemand from '../../assets/images/Weather-On-Demand.jpg';
 import FluffyPotato from '../../assets/images/Fluffy-Potato.png';
 import Sportlytics from '../../assets/images/Sportlytics.png';
+import Gamedeets from '../../assets/images/Gamedeets.jpg';
 
 
 
@@ -112,6 +113,23 @@ function Portfolio() {
               Github URL
             </a>
             <a href="https://rocky-river-85271.herokuapp.com/" target="_blank">
+              Deployment URL
+            </a>
+          </div>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item interval={2000}>
+          <img
+            className="d-block w-100"
+            src={Gamedeets}
+            alt="Third slide"
+          />
+          <Carousel.Caption>
+          <div className="flex-row space-between">
+            <a href="https://github.com/RobertRish/gamedeets" target="_blank">
+              Github URL
+            </a>
+            <a href="https://myvideogamesearch.herokuapp.com/" target="_blank">
               Deployment URL
             </a>
           </div>
